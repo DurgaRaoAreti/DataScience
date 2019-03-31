@@ -7,7 +7,7 @@ The marketing campaigns were based on phone calls. Often, the same customer was 
 than once through phone, in order to assess if they would want to subscribe to the bank term deposit or
 not. 
 
-The following questions were answered by a data analysis with Spark.
+The goals of this project are:
 
 1. Load data and create Spark data frame.
 2. Give marketing success rate. (No. of people subscribed / total no. of entries)
